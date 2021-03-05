@@ -1,7 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
+import {sayHello, sayGoodbye} from '@jjmckain/simple-js-lib';
 
 function App() {
+	sayHello();
+	sayGoodbye();
   return (
     <div className="App">
       <header className="App-header">
