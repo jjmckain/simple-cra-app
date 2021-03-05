@@ -1408,7 +1408,7 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@jjmckain/simple-js-lib@^1.0.0":
+"@jjmckain/simple-js-lib@1.0.1":
   version "1.0.1"
   resolved "https://npm.pkg.github.com/download/@jjmckain/simple-js-lib/1.0.1/1a6fb3a5c591c4f5cf36dfe0674ff4d3e07aabb30cf6b02077af031f22aa411a#1d8fdb543f5fe682919445611f3f2041061a33dc"
   integrity sha512-kUAPjFRTBn/DhOI0IeNH6aQA8/1a1a44A5T2P5l1JfhIlMxvIu2HvPRlcca+6XAUsA4W7L5sv17W+ebgS37iMg==
